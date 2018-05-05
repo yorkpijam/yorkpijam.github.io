@@ -1,4 +1,4 @@
-<img src="York Pi Jam Logo.png" alt="Logo">
+<img src="York Pi Jam Logo.png" alt="Logo" style="width:279.75px;height:143.75px;">
 
 ## Next Event
 
