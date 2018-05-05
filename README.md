@@ -1,7 +1,7 @@
 ## Next Event
 
-We are attending York Raspberry Jam. You can get tickets below:
-<button type="button" onclick="https://www.eventbrite.co.uk/e/york-raspberry-jam-tickets-44586926698?aff=es2">Click Me!</button>
+We are attending York Raspberry Jam. You can get tickets now:
+<button type="button" onclick= href "https://www.eventbrite.co.uk/e/york-raspberry-jam-tickets-44586926698?aff=es2">Get tickets!</button>
 
 ### Markdown
 
