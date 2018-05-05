@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Next Event
 
-You can use the [editor on GitHub](https://github.com/yorkpijam/yorkpijam.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are attending York Raspberry Jam. You can get tickets below:
+<button type="button" onclick="https://www.eventbrite.co.uk/e/york-raspberry-jam-tickets-44586926698?aff=es2">Click Me!</button>
 
 ### Markdown
 
