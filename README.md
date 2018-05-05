@@ -1,4 +1,4 @@
-<banner>src= "EventBrite-Banner- (2160x1080px)-No-Location-1.png"</banner>
+src "York Pi Jam Logo.png"
 
 ## Next Event
 
