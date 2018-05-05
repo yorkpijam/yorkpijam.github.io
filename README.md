@@ -1,4 +1,4 @@
-src "York Pi Jam Logo.png"
+<src "York Pi Jam Logo.png>
 
 ## Next Event
 
