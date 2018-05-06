@@ -1,3 +1,5 @@
+<title>York Pi Jam</title>
+
 ## Welcome to York Pi Jam
 
 <img src="EventBrite-Banner- (2160x1080px)-No-Location-1.png" alt="Banner">
