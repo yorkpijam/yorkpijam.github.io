@@ -24,6 +24,10 @@ Pictures from 24th March 2018 at Robert Wilkinson Primary Academy, Strensall, Yo
 
 <img src="IMG_0415.jpg" alt="Scratch On The Raspberry Pi">
 
-### Support or Contact
+<form action="https://goo.gl/forms/BHLbynPEzLVsxiLe2">
+    <input type="submit" value="Give Feedback For The 24th March 2018 York Pi Jam" />
+</form>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Us
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfo7U9NmBaaOnHz05FBf3H4nNUU5vvpAkWvmCkeV4Zzc8lnoA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
