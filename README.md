@@ -31,3 +31,5 @@ Pictures from 24th March 2018 at Robert Wilkinson Primary Academy, Strensall, Yo
 ### Contact Us
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfo7U9NmBaaOnHz05FBf3H4nNUU5vvpAkWvmCkeV4Zzc8lnoA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+<img src="Untitled design (2).png" alt="Footer Banner">
