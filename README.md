@@ -1,7 +1,7 @@
 ## Welcome to York Pi Jam
 
 Welcome to York Pi Jam's website. We are next attending the York Raspberry Jam on May 21st 2018.
-<button type="button" href="https://www.eventbrite.co.uk/e/york-raspberry-jam-tickets-44586926698?aff=es2" class="btn btn-info">Get Tickets Now</button>
+<button type="button" href="https://www.eventbrite.co.uk/e/york-raspberry-jam-tickets-44586926698?aff=es2">Get Tickets Now</button>
 
 ### Markdown
 
