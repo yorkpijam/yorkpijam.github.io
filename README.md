@@ -1,4 +1,5 @@
 <title>York Pi Jam</title>
+<link rel="icon" href="Untitled design (1).png">
 
 ## Welcome to York Pi Jam
 
